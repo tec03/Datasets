@@ -1,0 +1,20 @@
+﻿Gender,Salary,Age,Place,Weight,Company,Academic_degree
+Female,1500,33,Chicago,80,BMW,Bachelor
+Female,1200,33,Chicago,82.5,Ford,No
+Male,2200,34,New York,100.8,BMW,Bachelor
+Male,2100,42,New York,90,BMW,Master
+Female,1500,29,Chicago,67,Ford,Master
+Female,1700,42,Washington,60,Ford,Master
+Male,3000,50,Washington,77,Ford,No
+Male,3000,55,Washington,77,Ford,Bachelor
+Female,2800,31,New York,87,Ford,Bachelor
+Male,2900,46,New York,70,GM,Master
+Female,2780,36,Washington,57,BMW,No
+Male,2550,48,New York,64,GM,Master
+Female,,31,New York,87,Ford,Bachelor
+Male,2900,,New York,70,GM,Master
+Female,2780,36,,57,BMW,No
+Male,2550,48,New York,,GM,Master
+Male,2550,48,New York,64,,Master
+Male,2550,48,New York,64,GM,
+,2550,48,New York,64,GM,Master
