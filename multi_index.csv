@@ -1,0 +1,15 @@
+,,Night,Night,Night,Day,Day,Day
+,,Weather,Wind,Max Temperature,Weather,Wind,Max Temperature
+City,Date,,,,,,
+London,01/07/19,Shower,SW 16 mph,18,Shower,SW 16 mph,28
+London,02/07/19,Heavy rain,SW 16 mph,17,Shower,SW 16 mph,29
+London,03/07/19,Heavy rain,SW 16 mph,19,Scattered showers,SW 16 mph,29
+London,04/07/19,Mostly cloudy,SW 16 mph,23,Mostly cloudy,SW 16 mph,31
+Oxford,01/07/19,Shower,SW 16 mph,19,Shower,SW 13 mph,25
+Oxford,02/07/19,Shower,SW 16 mph,19,Shower,SW 16 mph,26
+Oxford,03/07/19,Scattered showers,SW 16 mph,22,Scattered showers,SW 16 mph,28
+Oxford,04/07/19,Shower,SW 16 mph,21,Shower,SW 14 mph,25
+Cambridge,01/07/19,Shower,SW 16 mph,17,Shower,SW 16 mph,24
+Cambridge,02/07/19,Scattered showers,E 20 mph,16,Scattered showers,E 20 mph,21
+Cambridge,03/07/19,Scattered showers,SE 10 mph,16,Scattered showers,SE 10 mph,22
+Cambridge,04/07/19,Mostly cloudy,S 25 mph,16,Shower,S 25 mph,22
