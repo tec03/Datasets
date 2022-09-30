@@ -1,7 +1,7 @@
 ID,Age,Gender,GenderGroup,Glasses,GlassesGroup,Height,Wingspan,CWDistance,Complete,CompleteGroup,Score
 1,56,F,1,Y,1,62,61,79,Y,1,7
 2,26,F,1,Y,1,62,60,70,Y,1,8
-3,33,F,1,Y,1,66,64,85,Y,1,7
+3,33,F,1,Y,1,66,64,85,Y,1,0
 4,39,F,1,N,0,64,63,87,Y,1,10
 5,27,M,2,N,0,73,75,72,N,0,4
 6,24,M,2,N,0,75,71,81,N,0,3
