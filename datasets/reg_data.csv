@@ -1,20 +1,20 @@
-﻿Gender,Salary,Age,Place,Weight,Company,Academic_degree
-Female,1500,33,Chicago,80,BMW,Bachelor
-Female,1200,33,Chicago,82.5,Ford,No
-Male,2200,34,New York,100.8,BMW,Bachelor
-Male,2100,42,New York,90,BMW,Master
-Female,1500,29,Chicago,67,Ford,Master
-Female,1700,42,Washington,60,Ford,Master
-Male,3000,50,Washington,77,Ford,No
-Male,3000,55,Washington,77,Ford,Bachelor
-Female,2800,31,New York,87,Ford,Bachelor
-Male,2900,46,New York,70,GM,Master
-Female,2780,36,Washington,57,BMW,No
-Male,2550,48,New York,64,GM,Master
-Female,,31,New York,87,Ford,Bachelor
-Male,2900,,New York,70,GM,Master
-Female,2780,36,,57,BMW,No
-Male,2550,48,New York,,GM,Master
-Male,2550,48,New York,64,,Master
-Male,2550,48,New York,64,GM,
-,2550,48,New York,64,GM,Master
+﻿Gender,Salary,Age,Place,Weight,Company,Education,JoinYear
+Female,1300,35,Chicago,80,BMW,Bachelor,2008
+Female,1250,33,Chicago,82.5,Ford,HighSchool,2010
+Male,2200,34,New York,100.8,BMW,Bachelor,2004
+Male,2100,42,New York,90,BMW,Master,2000
+Female,1500,29,Chicago,67,Ford,Master,2010
+Female,1700,42,Washington,60,Ford,Master,2000
+Male,3000,50,Washington,77,Ford,HighSchool,2010
+Male,3000,55,Washington,77,Ford,Bachelor,2010
+Female,2800,31,New York,87,Ford,Bachelor,2004
+Male,2900,46,New York,70,GM,Master,2008
+Female,2780,36,Washington,57,BMW,HighSchool,2009
+Male,2550,48,New York,64,GM,Master,2004
+Female,,31,New York,87,Ford,Bachelor,2009
+Male,2900,,New York,70,GM,Master,2010
+Female,2780,36,,57,BMW,HighSchool,2010
+Male,2550,48,New York,,GM,Master,2000
+Male,2550,48,New York,64,,Master,2000
+Male,2550,48,New York,64,GM,,2000
+,2550,48,New York,64,GM,Master,2009
