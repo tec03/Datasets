@@ -1,7 +1,7 @@
 ﻿Gender,Salary,Age,Place,Weight,Company,Education,JoinYear
-Female,1300,35,Chicago,80,BMW,Bachelor,2008
-Female,1250,33,Chicago,82.5,Ford,HighSchool,2010
-Male,2200,34,New York,100.8,BMW,Bachelor,2004
+Female,1300,35,Chicago,80,BMW,Bachelor,_2008
+Female,1250,33,Chicago,82.5,Ford,HighSchool,_2010
+Male,2200,34,New York,100.8,BMW,Bachelor,_2004
 Male,2100,42,New York,90,BMW,Master,2000
 Female,1500,29,Chicago,67,Ford,Master,2010
 Female,1700,42,Washington,60,Ford,Master,2000
