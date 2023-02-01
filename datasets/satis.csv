@@ -1,7 +1,7 @@
 Age,Sex,Ocupation,Monthly income ,Price,Quality,Quantity,Availability,Taste,Flavours,Customer relation,Customer services,Texture,Size,Overal satisfaction,Consistency,Factor,Frowned,reason,Popular,My favorite,Kind,Preference,Recommend
-30 - 40,Male,Research ,">40, 000",5,5,5,4,4,5,4,4,4,4,4,4,Taste,No,,Combo_VLM,Chocolate,More than one flavoured,agree,agree
-20  - 29 ,Male,student,"<10,000",3,5,3,4,5,5,4,4,5,2,4,4,Taste,No,Quantity issues,Combo_VCS,Chocolate,More than one flavoured,neutral,neutral
-41 - 49 ,Female,Teaching,">40, 000",3,4,4,4,3,4,4,4,4,4,4,4,Taste,No,,Combo_VCS,Caramel,More than one flavoured,disagree,neutral
+35,Male,Research ,">40, 000",5,5,5,4,4,5,4,4,4,4,4,4,Taste,No,,Combo_VLM,Chocolate,More than one flavoured,agree,agree
+24,Male,student,"<10,000",3,5,3,4,5,5,4,4,5,2,4,4,Taste,No,Quantity issues,Combo_VCS,Chocolate,More than one flavoured,neutral,neutral
+43,Female,Teaching,">40, 000",3,4,4,4,3,4,4,4,4,4,4,4,Taste,No,,Combo_VCS,Caramel,More than one flavoured,disagree,neutral
 27,Male,Student,"<10,000",5,5,3,4,5,5,4,4,3,4,4,4,Taste,No,,Combo_VCS,Strawbery,More than one flavoured,agree,agree
 23,Female,Tutor,"10,000 - 20,000",5,5,4,4,5,5,4,5,5,5,5,5,Quality,No,,Combo_VCS,Vanila,single flavoured,agree,Strongly agree
 27,Female,Student,"<10,000",3,3,3,3,3,3,5,4,3,4,3,4,Taste,No,.no,Combo_CRC,Chocolate,single flavoured,neutral,agree
