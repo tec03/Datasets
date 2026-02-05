@@ -1,0 +1,9 @@
+, Puebla, Saltillo, Pesqueria, Queretaro, Supply
+Tampico, 120, 130, 41, 62, 500
+Veracruz, 61, 40, 100, 110, 700
+Manzanillo, 102, 90, 122, 42, 800
+Demand, 400, 900, 200, 500,
+
+
+
+
